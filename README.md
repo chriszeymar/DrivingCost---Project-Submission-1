@@ -1,2 +1,10 @@
-# DrivingCost---Project-Submission-1
-Calculates the cost of travelling
+------------------------------------------------------------------------
+This is the project README file.
+------------------------------------------------------------------------
+
+PROJECT TITLE: DRIVING COST ESTIMATOR
+PURPOSE OF PROJECT: HELP CONSUMERS KNOW HOW MUCH IT COST FOR A TRIP
+VERSION or DATE: AUG 2022
+HOW TO START THIS PROJECT:RUN .JAVA FILE ON A JAVA CAPABLE TERMINAL
+AUTHORS: CHRISTIAN ZEMA - 
+USER INSTRUCTIONS: ENTER REQUIRED INFO IN CONSOLE THEN PRESS ENTER 
